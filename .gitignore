@@ -1,0 +1,16 @@
+# Bot tokens — never commit these
+*_token.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime-generated user images
+user_image*
+
+# Temp files
+find_result.txt
+
+# Archives
+*.rar
+*.zip
