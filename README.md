@@ -79,3 +79,8 @@ A terminal version of the Voithos bot (no Telegram) used to test logic before ad
    ```
 
 > Token files (`*_token.py`) are excluded from this repository via `.gitignore`.
+
+
+---
+
+<sub>Account history: Magitcian172 → Eye172 (same developer). [Authorship note](AUTHORSHIP.md).</sub>
